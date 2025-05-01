@@ -26,6 +26,8 @@ Before running this project, make sure you have the following installed:
 ```bash
 pip install -r requirements.txt
 ```
+download zip file and unzip it and add it to data folder
+@https://drive.google.com/file/d/1k6H9kQWfzLJB-ajuT6j4U0H0vyx7n_uL/view  
 
 ## 🚀 Getting Started
 
